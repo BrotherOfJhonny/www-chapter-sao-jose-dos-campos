@@ -5,6 +5,9 @@ title: OWASP São José dos Campos
 tags: chapter-sjc
 region: South America
 meetup-group: owasp-sao-jose-dos-campos-chapter
+level: 0
+country: Brazil
+postal-code: 
 
 ---
 
